@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algos/Algos.iml" filepath="$PROJECT_DIR$/Algos/Algos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/ArrayMinimumElement/ArrayMinimumElement.iml" filepath="$PROJECT_DIR$/Array/ArrayMinimumElement/ArrayMinimumElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/ArraySecondLargest/ArraySecondLargest.iml" filepath="$PROJECT_DIR$/Array/ArraySecondLargest/ArraySecondLargest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/ArraySorting/ArraySorting.iml" filepath="$PROJECT_DIR$/Array/ArraySorting/ArraySorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banking/Banking.iml" filepath="$PROJECT_DIR$/Banking/Banking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BillBurgerApplication/BillBurgerApplication.iml" filepath="$PROJECT_DIR$/BillBurgerApplication/BillBurgerApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes.iml" filepath="$PROJECT_DIR$/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComplexNumber/ComplexNumber.iml" filepath="$PROJECT_DIR$/ComplexNumber/ComplexNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorFloor/ConstructorFloor.iml" filepath="$PROJECT_DIR$/ConstructorFloor/ConstructorFloor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorPoint/ConstructorPoint.iml" filepath="$PROJECT_DIR$/ConstructorPoint/ConstructorPoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncapsulationFail/EncapsulationFail.iml" filepath="$PROJECT_DIR$/EncapsulationFail/EncapsulationFail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncapsulationFix/EncapsulationFix.iml" filepath="$PROJECT_DIR$/EncapsulationFix/EncapsulationFix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/GroceryList/GroceryList.iml" filepath="$PROJECT_DIR$/ArrayList/GroceryList/GroceryList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance1/Inheritance1.iml" filepath="$PROJECT_DIR$/Inheritance1/Inheritance1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList1/LinkedList1.iml" filepath="$PROJECT_DIR$/LinkedList1/LinkedList1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList3/LinkedList3.iml" filepath="$PROJECT_DIR$/LinkedList3/LinkedList3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/MobilePhone/MobilePhone.iml" filepath="$PROJECT_DIR$/ArrayList/MobilePhone/MobilePhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism2/Polymorphism2.iml" filepath="$PROJECT_DIR$/Polymorphism2/Polymorphism2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/ReverseArray/ReverseArray.iml" filepath="$PROJECT_DIR$/Array/ReverseArray/ReverseArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VipCustomerConstructor/VipCustomerConstructor.iml" filepath="$PROJECT_DIR$/VipCustomerConstructor/VipCustomerConstructor.iml" />
+    </modules>
+  </component>
+</project>
